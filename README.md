@@ -1,4 +1,4 @@
-##Braineet Technical Test##
+Braineet Technical Test
 
 Description :
 Star Wars characters searcher, with a favorite collection feature
