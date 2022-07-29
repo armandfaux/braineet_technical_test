@@ -1,0 +1,19 @@
+.searchBar {
+    width: 400px;
+    height: 100px;
+    position: relative;
+    margin-left: 40rem;
+    margin-top: -80px;
+
+    input[type="text"] {
+        background-color: #faf096;
+        position: absolute;
+        padding: 8px;
+        border-radius: 20px;
+        border-color: rgb(0, 0, 0);
+        font-size: 1.3rem;
+        outline: none;
+        text-align: center;
+        width: 400px;
+    }
+}
